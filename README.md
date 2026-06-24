@@ -8,14 +8,14 @@
 
 ## 📂 รายชื่อโปรเจกต์
 
-| ชื่อไฟล์ | คำอธิบาย |
-| :--- | :--- |
-| [**CLI Expense Tracker.py**](./CLI%20Expense%20Tracker.py) | โปรแกรมจัดการรายรับ-รายจ่ายแบบ CLI ที่มีระบบสมัครสมาชิกและบันทึกประวัติการทำรายการ |
-| [**Arithmetic Formatter Project.py**](./Arithmetic%20Formatter%20Project.py) | โปรแกรมฝึกจัดรูปแบบคำตอบทางคณิตศาสตร์ให้อ่านง่ายและสวยงาม |
-| [**Budget App Project.py**](./Budget%20App%20Project.py) | โปรแกรมฝึกสร้างแอปจัดการงบประมาณพื้นฐาน |
-| [**Polygon Area Calculator Project.py**](./Polygon%20Area%20Calculator%20Project.py) | โปรแกรมคำนวณพื้นที่ของรูปหลายเหลี่ยมตามเงื่อนไขที่กำหนด |
-| [**Probability Calculator Project.py**](./Probability%20Calculator%20Project.py) | โปรแกรมฝึกคำนวณความน่าจะเป็นแบบง่าย ๆ |
-| [**Time Calculator Project.py**](./Time%20Calculator%20Project.py) | โปรแกรมคำนวณเวลาและแปลงค่าต่าง ๆ ที่เกี่ยวข้องกับเวลา |
+| ชื่อไฟล์ | หมวดหมู่ | คำอธิบาย |
+| :--- | :--- | :--- |
+| [**CLI Expense Tracker.py**](./CLI%20Expense%20Tracker.py) | โจทย์คิดเอง | โปรแกรมจัดการรายรับ-รายจ่ายแบบ CLI ที่มีระบบสมัครสมาชิกและบันทึกประวัติการทำรายการ |
+| [**Arithmetic Formatter Project.py**](./Arithmetic%20Formatter%20Project.py) | freeCodeCamp | โปรแกรมฝึกจัดรูปแบบคำตอบทางคณิตศาสตร์ให้อ่านง่ายและสวยงาม |
+| [**Budget App Project.py**](./Budget%20App%20Project.py) | freeCodeCamp | โปรแกรมฝึกสร้างแอปจัดการงบประมาณพื้นฐาน |
+| [**Polygon Area Calculator Project.py**](./Polygon%20Area%20Calculator%20Project.py) | freeCodeCamp | โปรแกรมคำนวณพื้นที่ของรูปหลายเหลี่ยมตามเงื่อนไขที่กำหนด |
+| [**Probability Calculator Project.py**](./Probability%20Calculator%20Project.py) | freeCodeCamp | โปรแกรมฝึกคำนวณความน่าจะเป็นแบบง่าย ๆ |
+| [**Time Calculator Project.py**](./Time%20Calculator%20Project.py) | freeCodeCamp | โปรแกรมคำนวณเวลาและแปลงค่าต่าง ๆ ที่เกี่ยวข้องกับเวลา |
 
 ## ✨ จุดประสงค์ของโปรเจกต์
 
