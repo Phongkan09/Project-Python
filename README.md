@@ -11,6 +11,7 @@
 | ชื่อไฟล์ | หมวดหมู่ | คำอธิบาย |
 | :--- | :--- | :--- |
 | [**CLI Expense Tracker.py**](./CLI%20Expense%20Tracker.py) | โจทย์คิดเอง | โปรแกรมจัดการรายรับ-รายจ่ายแบบ CLI ที่มีระบบสมัครสมาชิกและบันทึกประวัติการทำรายการ |
+| [**CLI Inventory Manager.py**](./CLI%20Inventory%20Manager.py) | โจทย์คิดเอง | โปรแกรมจัดการสต๊อกสินค้าแบบ CLI ที่มีระบบสมัครสมาชิก/เข้าสู่ระบบ เพิ่ม-แก้ไขสินค้า และบันทึกประวัติการขาย |
 | [**Arithmetic Formatter Project.py**](./Arithmetic%20Formatter%20Project.py) | freeCodeCamp | โปรแกรมฝึกจัดรูปแบบคำตอบทางคณิตศาสตร์ให้อ่านง่ายและสวยงาม |
 | [**Budget App Project.py**](./Budget%20App%20Project.py) | freeCodeCamp | โปรแกรมฝึกสร้างแอปจัดการงบประมาณพื้นฐาน |
 | [**Polygon Area Calculator Project.py**](./Polygon%20Area%20Calculator%20Project.py) | freeCodeCamp | โปรแกรมคำนวณพื้นที่ของรูปหลายเหลี่ยมตามเงื่อนไขที่กำหนด |
@@ -49,6 +50,7 @@ Project-Python/
 ├── Arithmetic Formatter Project.py
 ├── Budget App Project.py
 ├── CLI Expense Tracker.py
+├── CLI Inventory Manager.py
 ├── Polygon Area Calculator Project.py
 ├── Probability Calculator Project.py
 ├── README.md
